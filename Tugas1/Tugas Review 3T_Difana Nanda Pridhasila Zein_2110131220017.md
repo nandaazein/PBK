@@ -12,6 +12,16 @@ Difana Nanda Pridhasila Zein
 
 <p align="justify">Salah satu keunggulan Scratch adalah fitur <i><b>drag and drop</b></i> yang memudahkan pengguna dalam menyusun blok-blok kode. Fitur ini membuat pemrograman menjadi lebih mudah dipahami dan membantu menghindari kesalahan yang biasanya terjadi saat menulis kode. Dengan begitu, proses belajar menjadi lebih mudah dan menyenangkan.</p>
 
+### Fitur Scratch
+#### 1. Sprite
+<p align="justify">Sprite adalah karakter atau objek yang digunakan dalam Scratch. Pengguna dapat memilih sprite yang tersedia di dalam perpustakaan Scratch atau mengunggah sprite konstum sesuai keinginan. Selain itu, Sprite dapat kita ubah posisi, arah, dan ukurannya sesuai dengan kebutuhan pengguna.</p>
+
+#### 2. Blok Kode
+<p align="justify">Scratch menggunakan blok-blok kode visual yang dapat diseret dan dilepas, sehingga pengguna tidak perlu menuliskan kode secara manual. Ini memudahkan pemahaman konsep pemrograman  dasar tanpa harus memahami sintaks yang kompleks.</p>
+
+#### 3. Background
+<p align="justify"></p>
+
 ### 1. Scratch sebagai Tutor
 <p align="justify">Scratch membantu pengguna belajar dasar-dasar pemrograman degan cara yang mudah dan menyenangkan. Terdapat tutorial dan panduan yang jelas sehingga pengguna bisa langsung memahami konsep seperti logika dan urutan langkah. Kelebihannya adalah cara belajarnya yang sederhana dan mempunyai tampilan visual yang menarik. </p>
 
